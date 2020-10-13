@@ -142,15 +142,15 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Vincent Delage"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "sales@meliad-sas.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "6, rue des Orfèvres - 44840 Les Sorinières - France"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = ""
 multi_author = false
 [params.cookies]
 enable = true
