@@ -20,8 +20,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Author
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
@@ -37,21 +35,23 @@ sections:
   templates:
   - author
 - type: heading
-  label: Project
+  label: Analyse
 - type: directory
   path: exampleSite/content/english/project
-  label: Project (en)
+  label: Residual stresses Analysis (en)
   create: documents
   match: "**/*"
   templates:
   - project
 - type: directory
   path: exampleSite/content/french/project
-  label: Project (fr)
+  label: Analyse des contraintes résiduelles (fr)
   create: documents
   match: "**/*"
   templates:
   - project
+- type: heading
+  label: Traitement de surface
 - type: heading
   label: Others Pages
 - type: directory
