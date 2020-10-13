@@ -1,4 +1,4 @@
-baseURL = "http://Meliad.netlify.com"
+baseURL = "http://Meliad.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
